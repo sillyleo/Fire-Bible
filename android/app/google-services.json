@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "896526122979",
+    "firebase_url": "https://bible-json.firebaseio.com",
+    "project_id": "bible-json",
+    "storage_bucket": "bible-json.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896526122979:android:26d4de46bfc0ecd3",
+        "android_client_info": {
+          "package_name": "com.sillyleo.biblejson"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896526122979-f5km0dkr0bquqbrh331k5f5grna5h68n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDECfmA2w0G-PPwQBdbbdKMNykn3r6b970"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
