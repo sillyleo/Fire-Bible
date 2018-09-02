@@ -1,0 +1,3 @@
+# Referenced at /Users/leo/Documents/React Native/Fire-Bible/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:28
+-keep class com.sillyleo.biblejson.MainApplication { <init>(...); }
+

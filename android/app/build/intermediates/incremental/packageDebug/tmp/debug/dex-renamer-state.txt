@@ -1,0 +1,10 @@
+#Sun Sep 02 20:51:03 CST 2018
+path.2=classes3.dex
+path.1=classes2.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=/Users/leo/Documents/React Native/Fire-Bible/android/app/build/intermediates/transforms/dexMerger/debug/4
+base.1=/Users/leo/Documents/React Native/Fire-Bible/android/app/build/intermediates/transforms/dexMerger/debug/4
+base.0=/Users/leo/Documents/React Native/Fire-Bible/android/app/build/intermediates/transforms/dexMerger/debug/4
