@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/leo/Documents/React\ Native/Firebible/node_modules/react-native-firebase/ios/RNFirebase/firestore/RNFirebaseFirestore.m \
-  /Users/leo/Documents/React\ Native/Firebible/node_modules/react-native-firebase/ios/RNFirebase/firestore/RNFirebaseFirestore.h \
+  /Users/leo/Documents/React\ Native/Fire-Bible/node_modules/react-native-firebase/ios/RNFirebase/firestore/RNFirebaseFirestore.m \
+  /Users/leo/Documents/React\ Native/Fire-Bible/node_modules/react-native-firebase/ios/RNFirebase/firestore/RNFirebaseFirestore.h \
   ../../../ios/Pods/Headers/Public/FirebaseFirestore/FirebaseFirestore.h \
   ../../../ios/Pods/Headers/Public/FirebaseFirestore/FIRCollectionReference.h \
   ../../../ios/Pods/Headers/Public/FirebaseFirestore/FIRQuery.h \
@@ -20,14 +20,14 @@ dependencies: \
   ../../../ios/Pods/Headers/Public/FirebaseFirestore/FIRTimestamp.h \
   ../../../ios/Pods/Headers/Public/FirebaseFirestore/FIRTransaction.h \
   ../../../ios/Pods/Headers/Public/FirebaseFirestore/FIRWriteBatch.h \
-  /Users/leo/Documents/React\ Native/Firebible/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Users/leo/Documents/React\ Native/Firebible/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Users/leo/Documents/React\ Native/Firebible/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
-  /Users/leo/Documents/React\ Native/Firebible/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
-  /Users/leo/Documents/React\ Native/Firebible/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
-  /Users/leo/Documents/React\ Native/Firebible/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
-  /Users/leo/Documents/React\ Native/Firebible/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /Users/leo/Documents/React\ Native/Firebible/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/leo/Documents/React\ Native/Fire-Bible/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/leo/Documents/React\ Native/Fire-Bible/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/leo/Documents/React\ Native/Fire-Bible/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/leo/Documents/React\ Native/Fire-Bible/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/leo/Documents/React\ Native/Fire-Bible/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/leo/Documents/React\ Native/Fire-Bible/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/leo/Documents/React\ Native/Fire-Bible/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/leo/Documents/React\ Native/Fire-Bible/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
   ../../../ios/Pods/Headers/Public/Firebase/Firebase.h \
   ../../../ios/Pods/Headers/Public/FirebaseCore/FirebaseCore.h \
   ../../../ios/Pods/Headers/Public/FirebaseCore/FIRAnalyticsConfiguration.h \
@@ -199,7 +199,7 @@ dependencies: \
   ../../../ios/Pods/Headers/Public/Crashlytics/Crashlytics/CLSStackFrame.h \
   ../../../ios/Pods/Headers/Public/Crashlytics/Crashlytics/Answers.h \
   ../../../ios/Pods/Headers/Public/Crashlytics/Crashlytics/ANSCompatibility.h \
-  /Users/leo/Documents/React\ Native/Firebible/node_modules/react-native-firebase/ios/RNFirebase/RNFirebaseEvents.h \
-  /Users/leo/Documents/React\ Native/Firebible/node_modules/react-native-firebase/ios/RNFirebase/firestore/RNFirebaseFirestoreCollectionReference.h \
-  /Users/leo/Documents/React\ Native/Firebible/node_modules/react-native-firebase/ios/RNFirebase/firestore/RNFirebaseFirestoreDocumentReference.h \
-  /Users/leo/Documents/React\ Native/Firebible/node_modules/react-native-firebase/ios/RNFirebase/RNFirebaseUtil.h
+  /Users/leo/Documents/React\ Native/Fire-Bible/node_modules/react-native-firebase/ios/RNFirebase/RNFirebaseEvents.h \
+  /Users/leo/Documents/React\ Native/Fire-Bible/node_modules/react-native-firebase/ios/RNFirebase/firestore/RNFirebaseFirestoreCollectionReference.h \
+  /Users/leo/Documents/React\ Native/Fire-Bible/node_modules/react-native-firebase/ios/RNFirebase/firestore/RNFirebaseFirestoreDocumentReference.h \
+  /Users/leo/Documents/React\ Native/Fire-Bible/node_modules/react-native-firebase/ios/RNFirebase/RNFirebaseUtil.h

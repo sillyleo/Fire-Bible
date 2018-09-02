@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/leo/Documents/React\ Native/Firebible/ios/Pods/FirebaseFirestore/Firestore/core/src/firebase/firestore/remote/datastore.cc \
-  /Users/leo/Documents/React\ Native/Firebible/ios/Pods/FirebaseFirestore/Firestore/core/src/firebase/firestore/remote/datastore.h
+  /Users/leo/Documents/React\ Native/Fire-Bible/ios/Pods/FirebaseFirestore/Firestore/core/src/firebase/firestore/remote/datastore.cc \
+  /Users/leo/Documents/React\ Native/Fire-Bible/ios/Pods/FirebaseFirestore/Firestore/core/src/firebase/firestore/remote/datastore.h

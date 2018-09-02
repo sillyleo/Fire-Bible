@@ -1,22 +1,22 @@
 dependencies: \
-  /Users/leo/Documents/React\ Native/Firebible/node_modules/react-native-firebase/ios/RNFirebase/admob/RNFirebaseAdMobRewardedVideo.m \
-  /Users/leo/Documents/React\ Native/Firebible/node_modules/react-native-firebase/ios/RNFirebase/admob/RNFirebaseAdMobRewardedVideo.h \
-  /Users/leo/Documents/React\ Native/Firebible/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Users/leo/Documents/React\ Native/Firebible/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Users/leo/Documents/React\ Native/Firebible/node_modules/react-native-firebase/ios/RNFirebase/RNFirebaseEvents.h \
+  /Users/leo/Documents/React\ Native/Fire-Bible/node_modules/react-native-firebase/ios/RNFirebase/admob/RNFirebaseAdMobRewardedVideo.m \
+  /Users/leo/Documents/React\ Native/Fire-Bible/node_modules/react-native-firebase/ios/RNFirebase/admob/RNFirebaseAdMobRewardedVideo.h \
+  /Users/leo/Documents/React\ Native/Fire-Bible/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/leo/Documents/React\ Native/Fire-Bible/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/leo/Documents/React\ Native/Fire-Bible/node_modules/react-native-firebase/ios/RNFirebase/RNFirebaseEvents.h \
   ../../../ios/Pods/Headers/Public/Google-Mobile-Ads-SDK/GoogleMobileAds/GADRewardBasedVideoAdDelegate.h \
   ../../../ios/Pods/Headers/Public/Google-Mobile-Ads-SDK/GoogleMobileAds/GADAdReward.h \
   ../../../ios/Pods/Headers/Public/Google-Mobile-Ads-SDK/GoogleMobileAds/GoogleMobileAdsDefines.h \
   ../../../ios/Pods/Headers/Public/Google-Mobile-Ads-SDK/GoogleMobileAds/GADRewardBasedVideoAd.h \
   ../../../ios/Pods/Headers/Public/Google-Mobile-Ads-SDK/GoogleMobileAds/GADRequest.h \
   ../../../ios/Pods/Headers/Public/Google-Mobile-Ads-SDK/GoogleMobileAds/GADAdNetworkExtras.h \
-  /Users/leo/Documents/React\ Native/Firebible/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
-  /Users/leo/Documents/React\ Native/Firebible/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
-  /Users/leo/Documents/React\ Native/Firebible/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
-  /Users/leo/Documents/React\ Native/Firebible/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
-  /Users/leo/Documents/React\ Native/Firebible/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /Users/leo/Documents/React\ Native/Firebible/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
-  /Users/leo/Documents/React\ Native/Firebible/node_modules/react-native-firebase/ios/RNFirebase/admob/RNFirebaseAdMob.h \
+  /Users/leo/Documents/React\ Native/Fire-Bible/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/leo/Documents/React\ Native/Fire-Bible/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/leo/Documents/React\ Native/Fire-Bible/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/leo/Documents/React\ Native/Fire-Bible/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/leo/Documents/React\ Native/Fire-Bible/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/leo/Documents/React\ Native/Fire-Bible/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/leo/Documents/React\ Native/Fire-Bible/node_modules/react-native-firebase/ios/RNFirebase/admob/RNFirebaseAdMob.h \
   ../../../ios/Pods/Headers/Public/Firebase/Firebase.h \
   ../../../ios/Pods/Headers/Public/FirebaseCore/FirebaseCore.h \
   ../../../ios/Pods/Headers/Public/FirebaseCore/FIRAnalyticsConfiguration.h \
@@ -201,4 +201,4 @@ dependencies: \
   ../../../ios/Pods/Headers/Public/Crashlytics/Crashlytics/CLSStackFrame.h \
   ../../../ios/Pods/Headers/Public/Crashlytics/Crashlytics/Answers.h \
   ../../../ios/Pods/Headers/Public/Crashlytics/Crashlytics/ANSCompatibility.h \
-  /Users/leo/Documents/React\ Native/Firebible/node_modules/react-native-firebase/ios/RNFirebase/RNFirebaseUtil.h
+  /Users/leo/Documents/React\ Native/Fire-Bible/node_modules/react-native-firebase/ios/RNFirebase/RNFirebaseUtil.h

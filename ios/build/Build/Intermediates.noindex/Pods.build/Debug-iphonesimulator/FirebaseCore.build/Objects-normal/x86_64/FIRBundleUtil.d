@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/leo/Documents/React\ Native/Firebible/ios/Pods/FirebaseCore/Firebase/Core/FIRBundleUtil.m \
-  /Users/leo/Documents/React\ Native/Firebible/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRBundleUtil.h
+  /Users/leo/Documents/React\ Native/Fire-Bible/ios/Pods/FirebaseCore/Firebase/Core/FIRBundleUtil.m \
+  /Users/leo/Documents/React\ Native/Fire-Bible/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRBundleUtil.h
