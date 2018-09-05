@@ -2,6 +2,8 @@ android/app/build
 android/app/build/*
 node_modules
 ios/build
+ios/build/
+ios/build/*.*
 ios/build/*
 android/.gradle/
 android/.idea/
