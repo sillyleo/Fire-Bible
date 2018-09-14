@@ -13,10 +13,24 @@ import Todo from './Todo';
 
 class Todos extends React.Component {
   constructor() {
+    const currentUserId = firebase
+      .auth()
+      .currentUser
+      .uid
     super();
-    this.ref = firebase
+    this.refDoc = firebase
       .firestore()
-      .collection('todos');
+      .collection('users')
+      .doc(currentUserId)
+      .collection('todos')
+      .doc();
+
+    this.refCollection = firebase
+      .firestore()
+      .collection('users')
+      .doc(currentUserId)
+      .collection('todos')
+
     this.state = {
       textInput: '',
       loading: true,
@@ -26,7 +40,7 @@ class Todos extends React.Component {
 
   componentDidMount() {
     this.unsubscribe = this
-      .ref
+      .refCollection
       .onSnapshot(this.onCollectionUpdate)
   }
 
@@ -52,33 +66,54 @@ class Todos extends React.Component {
   }
 
   addTodo() {
+
     this
-      .ref
-      .add({title: this.state.textInput, complete: false});
+      .refCollection
+      .doc()
+      .set({title: this.state.textInput, complete: false, priority: "high"})
+      .catch((error) => {
+        alert(error.message);
+      });
 
     this.setState({textInput: ''});
 
-    alert('Sent');
   }
 
   render() {
 
-    if (this.state.loading) {
-      return null; // or render a loading icon
-    }
+    // if (this.state.loading) {   return null; // or render a loading icon }
     return (
-      <SafeAreaView>
-        <FlatList data={this.state.todos} renderItem={({item}) => <Todo {...item}/>}/>
+      <View style={{
+        flex: 1,
+        backgroundColor: '#fafafa'
+      }}>
+        <FlatList
+          style={{
+          borderTopWidth: 2,
+          borderColor: 'black',
+          borderBottomWidth: 2,
+          flex: 3
+        }}
+          data={this.state.todos}
+          renderItem={({item}) => <Todo {...item}/>}/>
 
         <TextInput
+          style={{
+          minHeight: 50,
+          backgroundColor: "#999"
+        }}
           placeholder="add here"
           value={this.state.textInput}
           onChangeText={(text) => this.updateTextInput(text)}/>
         <Button
+          style={{
+          minHeight: 50,
+          backgroundColor: 'blue'
+        }}
           title="Add New"
           disabled={!this.state.textInput.length}
           onPress={() => this.addTodo()}/>
-      </SafeAreaView>
+      </View>
     );
   }
 }

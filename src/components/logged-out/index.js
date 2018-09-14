@@ -1,84 +1,23 @@
 import React, {Component} from 'react';
 import {View, SafeAreaView, Text, TextInput, Button} from 'react-native'
-import firebase from 'react-native-firebase';
+import Todos from '../../Todos';
+
+import LogInForm from '@components/log-in-form'
 
 class LoggedOut extends Component {
 
-  // state
-  state = {
-    email: '',
-    password: '',
-    error: '',
-    loading: false,
-    user: {}
-  };
-
-  renderLoading() {
-    if (this.state.loading) {
-      return (
-        <Text>Loading</Text>
-      )
-    }
-    return null
-  }
-
-  onLogin = () => {
-    firebase
-      .auth()
-      .signInAndRetrieveDataWithEmailAndPassword(this.state.email, this.state.password)
-      .then((user) => {
-        console.log(user)
-      })
-      .catch((error) => {
-        console.log(error)
-      })
-  }
-
-  onRegister = () => {
-    firebase
-      .auth()
-      .createUserAndRetrieveDataWithEmailAndPassword(this.state.email, this.state.password)
-      .then((user) => {
-        console.log(user)
-      })
-      .catch((error) => {
-        console.log(error)
-      })
-  }
-
   render() {
     return (
-      <SafeAreaView>
-        <Text>Log In</Text >
-        <TextInput
-          placeholder="email"
-          value={this.state.email}
-          placeholderTextColor="green"
-          onChangeText={text => this.setState({email: text})}/>
+      <View styles={{
+        flex: 1,
+        height: "100%"
+      }}>
+        <LogInForm styles={{
+          flex: 1,
+          height: 150
+        }}/>
 
-        <TextInput
-          placeholder="password"
-          value={this.state.password}
-          secureTextEntry={true}
-          placeholderTextColor="red"
-          onChangeText=
-          { text => this.setState({password: text}) }/>
-
-        <Button title="Login" onPress={this
-          .onLogin
-          .bind(this)}/>
-
-        <Button
-          title="Register"
-          onPress={this
-          .onRegister
-          .bind(this)}/>
-
-        <View>
-          {this.renderLoading()}
-        </View>
-
-      </SafeAreaView>
+      </View>
     );
   }
 }

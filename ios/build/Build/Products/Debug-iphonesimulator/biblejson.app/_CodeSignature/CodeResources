@@ -55,7 +55,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		oMZSyjnscaol7geGomsYyPLSp38=
+		MP1rgkTYNs1DwDhJG0jQzSTWkDQ=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -67,23 +67,23 @@
 		</data>
 		<key>PlugIns/biblejsonTests.xctest.dSYM/Contents/Resources/DWARF/biblejsonTests</key>
 		<data>
-		4xy6iHzyYcC2F6iBROOjTAVpGt8=
+		pLIsaniTKmS7e/MuG0JAJrMomi4=
 		</data>
 		<key>PlugIns/biblejsonTests.xctest/Info.plist</key>
 		<data>
-		79UETnFJuR9Ma7JHoYekTeF2U9U=
+		cVaOnbj+HkXhXMqlTPzzT0NqlN8=
 		</data>
 		<key>PlugIns/biblejsonTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
-		ahk2jJQatUExS7Q22m5OhUiAe0g=
+		g2eK2//5FezX519gL3FXmXqU6dg=
 		</data>
 		<key>PlugIns/biblejsonTests.xctest/biblejsonTests</key>
 		<data>
-		hQ5fsFMCd4/3s2eEyHUSyldTnTs=
+		HcPmKWTmU4pOZQ9tOChtK3XNl98=
 		</data>
 		<key>gRPCCertificates.bundle/Info.plist</key>
 		<data>
-		mxvgorXLqtytn/Hx554l1+J8AmA=
+		4Z5IZGxfH9Hujw6RHLbuxj3RzyE=
 		</data>
 		<key>gRPCCertificates.bundle/roots.pem</key>
 		<data>
@@ -230,55 +230,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4xy6iHzyYcC2F6iBROOjTAVpGt8=
+			pLIsaniTKmS7e/MuG0JAJrMomi4=
 			</data>
 			<key>hash2</key>
 			<data>
-			6n+F4NTebRuScb+rE1cGqRIMR/gOP5RYgE5LRvAFYuc=
+			/+yXIQKMYLkAKcX5XLe/feq5ImAJbbxbPJBSsFnyS30=
 			</data>
 		</dict>
 		<key>PlugIns/biblejsonTests.xctest/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			79UETnFJuR9Ma7JHoYekTeF2U9U=
+			cVaOnbj+HkXhXMqlTPzzT0NqlN8=
 			</data>
 			<key>hash2</key>
 			<data>
-			OtP00p+PldjilAYDGCak9skW8agTxhn62KGgYuQeBoA=
+			VJx2AXBsMp/lY+xHW6T3YLsf732thqOuZbHAb1KdIbg=
 			</data>
 		</dict>
 		<key>PlugIns/biblejsonTests.xctest/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ahk2jJQatUExS7Q22m5OhUiAe0g=
+			g2eK2//5FezX519gL3FXmXqU6dg=
 			</data>
 			<key>hash2</key>
 			<data>
-			6dOATFu9rjpnTIFUIRyhzjGSCWDtk4xBg87YgglIUnE=
+			FeEGeXOd7CYtiinRj8wROnGhU5EV+yphkmlLztwNK1k=
 			</data>
 		</dict>
 		<key>PlugIns/biblejsonTests.xctest/biblejsonTests</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hQ5fsFMCd4/3s2eEyHUSyldTnTs=
+			HcPmKWTmU4pOZQ9tOChtK3XNl98=
 			</data>
 			<key>hash2</key>
 			<data>
-			zoiZY//KhZtAD4gx618/7GIACGBDa+OjfxlOU2/YOlk=
+			Z32nhHUokE03pDZgqs8tWKqv37Tpg0bTw/imwq2HBpc=
 			</data>
 		</dict>
 		<key>gRPCCertificates.bundle/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mxvgorXLqtytn/Hx554l1+J8AmA=
+			4Z5IZGxfH9Hujw6RHLbuxj3RzyE=
 			</data>
 			<key>hash2</key>
 			<data>
-			nPtiW5ASTz2L3C4M35as/JCqBrrPyxG4JuiWIs9VMXU=
+			MymLWtCBPkAWnSwPBvKci8nG1kO0dQsrXCbuiFTTLQA=
 			</data>
 		</dict>
 		<key>gRPCCertificates.bundle/roots.pem</key>
